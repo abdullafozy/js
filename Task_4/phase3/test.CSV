@@ -1,0 +1,8 @@
+name,age,active,email
+John,34,true,john@example.com
+Sara,28,false,sara@example.com
+Ahmed,abc,true,ahmed@example.com
+Mona,25,yes,mona@example.com
+Ali,,false,ali@example.com
+Omar,30,true
+Nour,22,false,nour@example.com,extra
